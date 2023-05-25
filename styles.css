@@ -1,0 +1,21 @@
+body {
+    background-color: #bc0701;
+    font-family: Arial; 
+}
+h1 {
+    font-family: Arial;
+    opacity: 50%;
+    text-align: center;
+}
+a {
+    color: white;
+    font-family: Arial;
+    opacity: 75%;
+    font-weight: bold;
+}
+p {
+    color: white;
+    font-family: Arial;
+    opacity: 75%;
+    font-weight: bold;
+}
